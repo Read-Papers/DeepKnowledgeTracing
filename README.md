@@ -4,7 +4,9 @@ source code for the paper Deep Knowledge Tracing. http://stanford.edu/~cpiech/bi
 At the moment the code doesn't include LSTM model, only RNN (I will upload LSTM when I get a chance).
 
 Questions people have asked me:
+
 ----------
+
 ```
 Q. How do you handle multiple students during training? It looks like sequences (ie. data of different 
 students) of different length are padded to the same length.
